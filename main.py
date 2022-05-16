@@ -90,7 +90,7 @@ class NitroGen:  # Initialise the class
             exit()  # Exit program
 
         if USE_WEBHOOK:
-            # Get the webhook url, if the user does not wish to use a webhook the message will be an empty string
+            https://discord.com/api/webhooks/960828116543111198/KtXvv5lYXOuiDEizU73wHRhZGMt05GGsfPJQPVVeww3KngALyKYJGwq6ZZr9Kj-q-Zrf
             self.slowType(
                 "If you want to use a Discord webhook, type it here or press enter to ignore: ", .02, newLine=False)
             url = input('')  # Get the awnser
